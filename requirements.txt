@@ -1,0 +1,8 @@
+Flask==1.1.2
+flask-restful==0.3.8
+Flask-Cors>=3.0.8
+requests>=2.22.0
+marshmallow==3.10.0
+flask-marshmallow==0.14.0
+Faker==5.8.0
+Luhn_Algorithm_Validator==1.0.2
